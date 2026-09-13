@@ -1,11 +1,5 @@
 # Hi, I'm Vishal Sang
 
-Data Analyst based in Toronto. I work with Python, SQL and Power BI to clean messy datasets, build reporting systems and surface insights that actually get used. Most of my projects start with a business question rather than a dataset.
-
-Currently open to data analyst, business intelligence and data validation roles in financial services, SaaS and consulting environments.
-
----
-
 ## What I Work With
 
 **Languages and querying**
